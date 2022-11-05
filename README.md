@@ -4,4 +4,3 @@
 - 📫 To reach me ig:whereismytalentt 
 - This is one of my first codes in Python
 - This Python codes gets a number that you giving and calculating the number if it's perfect number or not.
-- 
