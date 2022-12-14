@@ -2,5 +2,4 @@
 - 👀 I’m interested in AI, Desktop Applications and Machine Learning
 - 🌱 I’m currently learning Python
 - 📫 To reach me ig:whereismytalentt 
-- This is one of my first codes in Python
-- This Python codes gets a number that you giving and calculating the number if it's perfect number or not.
+
