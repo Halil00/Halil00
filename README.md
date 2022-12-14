@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Halil
-- 👀 I’m interested in AI, Desktop Applications and Machine Learning
+- 👀 I’m interested in AI, Desktop Applications
 - 🌱 I’m currently learning Python
  
 
